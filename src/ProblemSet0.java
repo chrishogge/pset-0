@@ -83,7 +83,7 @@ public class PSet0 {
         * Print a countdown to the console.
         */
 
-       System.out.println("Three.\tTwo.\tOne.\tGo!\n";
+       System.out.println("\nThree.\tTwo.\tOne.\tGo!\n");
 
        /*
         * Exercise 8.
@@ -91,12 +91,12 @@ public class PSet0 {
         * Print three diamonds to the console.
         */
 
-       System.out.println(     /\     /\");
-       System.out.printn(" /  \ /  \   /  \");
-       System.out.println("/    \   \ /    \");
-       System.out.printn("\    / \  \    /");
-       System.out.println(" \  /   \  /   \  /");
-       System.out.printn("  \/     \/   /")
+       System.out.println("\n  /\\     /\\     /\\");
+       System.out.println(" /  \\   /  \\   /  \\");
+       System.out.println("/    \\ /    \\ /    \\");
+       System.out.println("\\    / \\    / \\    /");
+       System.out.println(" \\  /   \\  /   \\  /");
+       System.out.println("  \\/     \\/     \\/\n");
 
        /*
         * Exercise 9.
